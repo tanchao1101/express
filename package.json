@@ -61,8 +61,8 @@
     "webpack-dev-server": "^2.9.1",
     "webpack-merge": "^4.1.0",
     "cookies": "^0.6.1",
-    "body-parser": "^1.15.2",
-    "express": "^4.14.0",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
     "markdown": "^0.5.0",
     "mongoose": "^4.5.7",
     "swig": "^1.4.2"
